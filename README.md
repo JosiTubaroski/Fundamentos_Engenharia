@@ -11,12 +11,10 @@
 <p><a href="https://github.com/JosiTubaroski/Introducao_Engenharia_Dados">Introdução a Engenharia de dados</a></p>
 </div> 
 
-### 2) Introdução à NoSQL
+### 2) Databricks
 
 <div> 
-<p><a href="">Introdução à NoSQL</a></p>
+<p><a href="">Sobre DataBicks, caso de uso</a></p>
 </div> 
-
-### 3) Databricks
 
 
